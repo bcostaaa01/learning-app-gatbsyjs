@@ -1,10 +1,10 @@
 import React from "react";
+import TopicCard from "../../components/topic-card";
 
 export const Basic = () => {
   return (
     <div>
-      <p>Greetings</p>
-      <p>Verbs</p>
+      <TopicCard />
     </div>
   );
 };
