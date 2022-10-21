@@ -5,7 +5,7 @@ export const Advanced = () => {
     <div>
         <p>Formal speech</p>
         <p>Comparing differences</p>
-        <p>Decribing images</p>
+        <p>Describing images</p>
     </div>
   )
 }
