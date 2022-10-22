@@ -22,6 +22,7 @@ export const TopicCard = () => {
           </CButton>
         </CCardBody>
       </CCard>
+      <br></br>
       <CCard style={{ width: "18rem", fontFamily: "sans-serif" }}>
         <CCardImage
           style={{ height: "240px" }}
@@ -30,6 +31,19 @@ export const TopicCard = () => {
         <CCardBody>
           <CCardTitle>Introducing yourself</CCardTitle>
           <CButton href="https://www.youtube.com/watch?v=UnEmEbWytI8">
+            Watch video
+          </CButton>
+        </CCardBody>
+      </CCard>
+      <br></br>
+      <CCard style={{ width: "18rem", fontFamily: "sans-serif" }}>
+        <CCardImage
+          style={{ height: "240px" }}
+          src="https://www.blogherald.com/wp-content/uploads/2017/06/odd-numbers.jpg"
+        />
+        <CCardBody>
+          <CCardTitle>Numbers</CCardTitle>
+          <CButton href="https://www.youtube.com/watch?v=D4eJ5kg28nU">
             Watch video
           </CButton>
         </CCardBody>
